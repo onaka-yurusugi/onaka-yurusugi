@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm G.Baby (onaka-yurusugi)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Developer+from+Kagoshima;妹シミュレーション開発者;Machine+Learning+%26+Web+Scraping;妹シミュレーション開発者;+with+new+ideas!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Developer+from+Kagoshima;妹シミュレーション開発者;Machine+Learning+%26+Web+Scraping;妹シミュレーション開発者;" alt="Typing SVG" />
 </div>
 
 ---
