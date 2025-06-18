@@ -92,30 +92,6 @@
 
 ---
 
-## 🌟 Project Highlights
-
-### 🎮 **SistersSimulation**
-
-対戦型妹恋愛シミュレーションゲーム - ユニークなゲーム体験を提供
-
-### 🎨 **CycleGAN Fantasy Conversion**
-
-機械学習を使った画像変換 - Web アプリで AI アートを生成
-
-### 🍳 **Recipe Ranking System**
-
-食材入力から楽天レシピ API 連携でパーソナライズされた献立提案
-
-### 🌋 **Disaster Notification**
-
-Twitter API と LINE 連携による桜島噴火等の災害情報自動通知システム
-
-### 🕷️ **Web Scraping Tools**
-
-ブックマークレットと JavaScript による効率的なデータ収集
-
----
-
 ## 📍 From Kagoshima with ❤️
 
 <div align="center">
