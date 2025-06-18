@@ -1,20 +1,18 @@
 # Hi there! 👋 I'm G.Baby (onaka-yurusugi)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Developer+from+Kagoshima;妹シミュレーション開発者;Machine+Learning+%26+Web+Scraping;Always+experimenting+with+new+ideas!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Developer+from+Kagoshima;妹シミュレーション開発者;Machine+Learning+%26+Web+Scraping;妹シミュレーション開発者;+with+new+ideas!" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 🏠 Based in **Kagoshima, Japan** 🇯🇵
-- 🎮 Creating unique simulation games and interactive experiences
-- 🤖 Working with **Machine Learning** and **CycleGAN** for image conversion
-- 🕷️ Building **Web Scraping** tools and automation solutions
-- 🍱 Food enthusiast developing recipe recommendation systems
-- 🌋 Local disaster monitoring with social media integration
-- 💻 Love experimenting with **JavaScript**, **Python**, and **AI**
+-   🔭 現在 **SistersSimulation** に取り組んでいます
+-   🌱 Next.js を学習中
+-   ⚡ Fun fact: **23:00 が最も生産的な時間です！**
+-   📊 **341** commits in the last year
+-   🏆 **1,399** total contributions
 
 ---
 
@@ -25,31 +23,31 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onaka-yurusugi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onaka-yurusugi&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Ngrok](https://img.shields.io/badge/-Ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white)
 ![LINE](https://img.shields.io/badge/-LINE-00C300?style=flat-square&logo=line&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/-Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
 
 ### Specialties
+
 ![Web Scraping](https://img.shields.io/badge/-Web_Scraping-FF6B6B?style=flat-square&logo=spider&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF9F43?style=flat-square&logo=tensorflow&logoColor=white)
 ![Game Development](https://img.shields.io/badge/-Game_Dev-5F27CD?style=flat-square&logo=gamedev&logoColor=white)
@@ -96,20 +94,25 @@
 
 ## 🌟 Project Highlights
 
-### 🎮 **SistersSimulation** 
+### 🎮 **SistersSimulation**
+
 対戦型妹恋愛シミュレーションゲーム - ユニークなゲーム体験を提供
 
 ### 🎨 **CycleGAN Fantasy Conversion**
-機械学習を使った画像変換 - WebアプリでAIアートを生成
+
+機械学習を使った画像変換 - Web アプリで AI アートを生成
 
 ### 🍳 **Recipe Ranking System**
-食材入力から楽天レシピAPI連携でパーソナライズされた献立提案
+
+食材入力から楽天レシピ API 連携でパーソナライズされた献立提案
 
 ### 🌋 **Disaster Notification**
-Twitter APIとLINE連携による桜島噴火等の災害情報自動通知システム
+
+Twitter API と LINE 連携による桜島噴火等の災害情報自動通知システム
 
 ### 🕷️ **Web Scraping Tools**
-ブックマークレットとJavaScriptによる効率的なデータ収集
+
+ブックマークレットと JavaScript による効率的なデータ収集
 
 ---
 
