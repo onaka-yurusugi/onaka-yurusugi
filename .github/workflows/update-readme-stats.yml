@@ -1,0 +1,39 @@
+name: Update README Stats
+
+on:
+    schedule:
+        - cron: "0 */6 * * *" # 6時間ごとに更新
+    workflow_dispatch: # 手動実行も可能
+
+jobs:
+    update-stats:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+              with:
+                  token: ${{ secrets.GITHUB_TOKEN }}
+
+            - name: Setup Node.js
+              uses: actions/setup-node@v3
+              with:
+                  node-version: "18"
+
+            - name: Install dependencies
+              run: |
+                  npm install @octokit/rest
+                  npm install axios
+                  npm install dotenv
+
+            - name: Generate Stats
+              env:
+                  GH_TOKEN: ${{ secrets.GH_PAT }} # Personal Access Token
+                  GITHUB_USERNAME: onaka-yurusugi
+              run: node scripts/generate-stats.js
+
+            - name: Update README
+              run: |
+                  git config --local user.email "action@github.com"
+                  git config --local user.name "GitHub Action"
+                  git add README.md
+                  git diff --quiet && git diff --staged --quiet || git commit -m "Update GitHub stats [skip ci]"
+                  git push

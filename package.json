@@ -1,0 +1,25 @@
+{
+  "name": "onaka-yurusugi",
+  "version": "1.0.0",
+  "description": "<!--\r **onaka-yurusugi/onaka-yurusugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onaka-yurusugi/onaka-yurusugi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onaka-yurusugi/onaka-yurusugi/issues"
+  },
+  "homepage": "https://github.com/onaka-yurusugi/onaka-yurusugi#readme",
+  "dependencies": {
+    "@octokit/rest": "^22.0.0",
+    "axios": "^1.10.0",
+    "dotenv": "^16.5.0"
+  }
+}
