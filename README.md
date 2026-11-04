@@ -79,22 +79,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=onaka-yurusugi&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onaka-yurusugi&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
 ## 🎯 Featured Projects
 
 <div align="center">
