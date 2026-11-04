@@ -1,18 +1,37 @@
 # Hi there! 👋 I'm オナカユル (onaka-yurusugi)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Developer+from+Kagoshima;妹シミュレーション開発者;Machine+Learning+%26+Web+Scraping;妹シミュレーション開発者;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Engineer+from+Kagoshima;イモートワーク+%7C+個人事業主;Next.js+%26+Voice+AI;さくらじまハウス+主催;" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
--   🔭 現在 **SistersSimulation** に取り組んでいます
--   🌱 Next.js を学習中
+-   💻 鹿児島在住の Web エンジニア
+-   🏠 個人事業 **[イモートワーク](https://imouto-work.com/)** として Web 開発・個人開発をしています
+-   🎙️ 最近は TTS / 音声 AI まわりの個人開発に夢中
+-   🌋 鹿児島の IT イベント **さくらじまハウス** を主催
 -   ⚡ Fun fact: **23:00 が最も生産的な時間です！**
--   📊 **341** commits in the last year
--   🏆 **1,399** total contributions
+
+---
+
+## 🔗 Links
+
+<div align="center">
+  <a href="https://x.com/onaka_yuruyuri">
+    <img src="https://img.shields.io/badge/-@onaka__yuruyuri-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://imouto-work.com/">
+    <img src="https://img.shields.io/badge/-イモートワーク-FF6B9D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="イモートワーク" />
+  </a>
+  <a href="https://lit.link/onakayuru">
+    <img src="https://img.shields.io/badge/-lit.link-6C5CE7?style=for-the-badge&logo=linktree&logoColor=white" alt="lit.link" />
+  </a>
+  <a href="https://www.instagram.com/tomo_hiro1006/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 ---
 
@@ -29,12 +48,15 @@
 
 ### Languages
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ### Frameworks & Libraries
 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -42,12 +64,15 @@
 ### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Ngrok](https://img.shields.io/badge/-Ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white)
 ![LINE](https://img.shields.io/badge/-LINE-00C300?style=flat-square&logo=line&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/-Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
 
 ### Specialties
 
+![Web Development](https://img.shields.io/badge/-Web_Development-36BCF7?style=flat-square&logo=html5&logoColor=white)
+![Voice AI](https://img.shields.io/badge/-Voice_AI_%2F_TTS-9B59B6?style=flat-square&logo=audacity&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/-Web_Scraping-FF6B6B?style=flat-square&logo=spider&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF9F43?style=flat-square&logo=tensorflow&logoColor=white)
 ![Game Development](https://img.shields.io/badge/-Game_Dev-5F27CD?style=flat-square&logo=gamedev&logoColor=white)
