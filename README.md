@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm オナカユル (onaka-yurusugi)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Engineer+from+Kagoshima;イモートワーク+%7C+個人事業主;Next.js+%26+Voice+AI;さくらじまハウス2026+主催;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Engineer+from+Kagoshima;%E3%82%A4%E3%83%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+%7C+%E5%80%8B%E4%BA%BA%E4%BA%8B%E6%A5%AD%E4%B8%BB;Next.js+%26+Voice+AI;%E3%81%95%E3%81%8F%E3%82%89%E3%81%98%E3%81%BE%E3%83%8F%E3%82%A6%E3%82%B92026+%E4%B8%BB%E5%82%AC;" alt="Typing SVG" />
 </div>
 
 ---
@@ -40,6 +40,14 @@
 <div align="center">
   <img src="https://github-readme-stats-five-gamma-87.vercel.app/api?username=onaka-yurusugi&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats-five-gamma-87.vercel.app/api/top-langs/?username=onaka-yurusugi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=onaka-yurusugi&theme=radical&hide_border=true&locale=ja" alt="GitHub Streak" />
 </div>
 
 ---
@@ -97,6 +105,17 @@
   <a href="https://github.com/onaka-yurusugi/DesasterNotiry">
     <img src="https://github-readme-stats-five-gamma-87.vercel.app/api/pin/?username=onaka-yurusugi&repo=DesasterNotiry&theme=radical&hide_border=true" alt="Disaster Notify" />
   </a>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onaka-yurusugi/onaka-yurusugi/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/onaka-yurusugi/onaka-yurusugi/output/github-snake.svg" alt="Contribution Snake" />
+  </picture>
 </div>
 
 ---
