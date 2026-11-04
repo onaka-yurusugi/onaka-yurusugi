@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm オナカユル (onaka-yurusugi)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Engineer+from+Kagoshima;イモートワーク+%7C+個人事業主;Next.js+%26+Voice+AI;さくらじまハウス2026+主催;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Engineer+from+Kagoshima;イモートワーク+%7C+個人事業主;Next.js+%26+Voice+AI;さくらじまハウス2026+主催;" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
--   💻 鹿児島在住の 腹痛系フリーランスITエンジニア
+-   💻 鹿児島在住の腹痛系フリーランスITエンジニア
 -   🏠 個人事業 **[イモートワーク](https://imouto-work.com/)** として Web 開発・個人開発をしています
 -   🎙️ 最近は TTS / 音声 AI まわりの個人開発に夢中
 -   🌋 鹿児島の IT イベント **さくらじまハウス2026** を主催
@@ -38,8 +38,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onaka-yurusugi&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onaka-yurusugi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-five-gamma-87.vercel.app/api?username=onaka-yurusugi&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-five-gamma-87.vercel.app/api/top-langs/?username=onaka-yurusugi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
 </div>
 
 ---
@@ -99,19 +99,19 @@
 
 <div align="center">
   <a href="https://github.com/onaka-yurusugi/SistersSimulation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onaka-yurusugi&repo=SistersSimulation&theme=radical&hide_border=true" alt="Sisters Simulation" />
+    <img src="https://github-readme-stats-five-gamma-87.vercel.app/api/pin/?username=onaka-yurusugi&repo=SistersSimulation&theme=radical&hide_border=true" alt="Sisters Simulation" />
   </a>
   <a href="https://github.com/onaka-yurusugi/CycleGAN-FantasyCnversion-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onaka-yurusugi&repo=CycleGAN-FantasyCnversion-&theme=radical&hide_border=true" alt="CycleGAN Fantasy Conversion" />
+    <img src="https://github-readme-stats-five-gamma-87.vercel.app/api/pin/?username=onaka-yurusugi&repo=CycleGAN-FantasyCnversion-&theme=radical&hide_border=true" alt="CycleGAN Fantasy Conversion" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/onaka-yurusugi/recipe_ranking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onaka-yurusugi&repo=recipe_ranking&theme=radical&hide_border=true" alt="Recipe Ranking" />
+    <img src="https://github-readme-stats-five-gamma-87.vercel.app/api/pin/?username=onaka-yurusugi&repo=recipe_ranking&theme=radical&hide_border=true" alt="Recipe Ranking" />
   </a>
   <a href="https://github.com/onaka-yurusugi/DesasterNotiry">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=onaka-yurusugi&repo=DesasterNotiry&theme=radical&hide_border=true" alt="Disaster Notify" />
+    <img src="https://github-readme-stats-five-gamma-87.vercel.app/api/pin/?username=onaka-yurusugi&repo=DesasterNotiry&theme=radical&hide_border=true" alt="Disaster Notify" />
   </a>
 </div>
 
