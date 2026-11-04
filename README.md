@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm オナカユル (onaka-yurusugi)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Engineer+from+Kagoshima;イモートワーク+%7C+個人事業主;Next.js+%26+Voice+AI;さくらじまハウス+主催;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Engineer+from+Kagoshima;イモートワーク+%7C+個人事業主;Next.js+%26+Voice+AI;さくらじまハウス2026+主催;" alt="Typing SVG" />
 </div>
 
 ---
@@ -11,7 +11,7 @@
 -   💻 鹿児島在住の 腹痛系フリーランスITエンジニア
 -   🏠 個人事業 **[イモートワーク](https://imouto-work.com/)** として Web 開発・個人開発をしています
 -   🎙️ 最近は TTS / 音声 AI まわりの個人開発に夢中
--   🌋 鹿児島の IT イベント **さくらじまハウス** を主催
+-   🌋 鹿児島の IT イベント **さくらじまハウス2026** を主催
 -   ⚡ Fun fact: **23:00 が最も生産的な時間です！**
 
 ---
